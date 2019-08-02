@@ -1,1 +1,1 @@
-echo "# crudproject" >> README.md
+echo "crud project" >> README.md
