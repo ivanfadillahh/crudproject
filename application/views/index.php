@@ -1,0 +1,1 @@
+Owner this website is <?php echo $nama; ?> <br><br> Status : <?php echo $status; ?> <br><br> Jurusan : <?php echo $jurusan; ?>
